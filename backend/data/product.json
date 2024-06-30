@@ -1,0 +1,104 @@
+[
+    {
+        "name": "iPhone 14 Pro",
+        "price": "999",
+        "description": "The latest iPhone with advanced features and improved performance.",
+        "ratings": "4.8",
+        "images": [
+            {
+                "image": "https://example.com/iphone14pro_front.jpg"
+            },
+            {
+                "image": "https://example.com/iphone14pro_back.jpg"
+            }
+        ],
+        "category": "Smartphones",
+        "seller": "Apple Store",
+        "stock": "150",
+        "numOfReviews": "3200"
+    },
+    {
+        "name": "Samsung Galaxy S22",
+        "price": "799",
+        "description": "The new Galaxy S22 with an exceptional camera and dynamic AMOLED display.",
+        "ratings": "4.7",
+        "images": [
+            {
+                "image": "https://example.com/galaxys22_front.jpg"
+            },
+            {
+                "image": "https://example.com/galaxys22_back.jpg"
+            }
+        ],
+        "category": "Smartphones",
+        "seller": "Samsung Store",
+        "stock": "200",
+        "numOfReviews": "2800"
+    },
+    {
+        "name": "Sony WH-1000XM5",
+        "price": "349",
+        "description": "High-resolution noise-cancelling headphones with exceptional sound quality.",
+        "ratings": "4.6",
+        "images": [
+            {
+                "image": "https://example.com/sony_wh1000xm5.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Sony Store",
+        "stock": "100",
+        "numOfReviews": "1500"
+    },
+    {
+        "name": "Apple Watch Series 8",
+        "price": "429",
+        "description": "Advanced health features and connectivity in a stylish design.",
+        "ratings": "4.5",
+        "images": [
+            {
+                "image": "https://example.com/applewatch8_front.jpg"
+            },
+            {
+                "image": "https://example.com/applewatch8_back.jpg"
+            }
+        ],
+        "category": "Smartwatches",
+        "seller": "Apple Store",
+        "stock": "180",
+        "numOfReviews": "2100"
+    },
+    {
+        "name": "Google Pixel 7",
+        "price": "599",
+        "description": "The newest Pixel phone with an amazing camera and smooth performance.",
+        "ratings": "4.7",
+        "images": [
+            {
+                "image": "https://example.com/pixel7_front.jpg"
+            },
+            {
+                "image": "https://example.com/pixel7_back.jpg"
+            }
+        ],
+        "category": "Smartphones",
+        "seller": "Google Store",
+        "stock": "250",
+        "numOfReviews": "1900"
+    },
+    {
+        "name": "Bose QuietComfort 45",
+        "price": "329",
+        "description": "Comfortable, wireless noise-cancelling headphones with excellent sound.",
+        "ratings": "4.6",
+        "images": [
+            {
+                "image": "https://example.com/bose_qc45.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Bose Store",
+        "stock": "120",
+        "numOfReviews": "1600"
+    }
+]
